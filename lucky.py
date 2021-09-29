@@ -1,7 +1,6 @@
 import random
 import time
 import pygame
-from pygame import rect
 from pygame.locals import *
 from button import Button
 
