@@ -1,4 +1,4 @@
-# How Lucky Are You? (MiniGame)
+# How Lucky Are You? (Pygame)
     This game is of pure luck! How lucky are you feeling right now?
 ## How to Play
     The game is simple to play.
@@ -30,6 +30,6 @@
 
 ### Useful Websites
 
-* [Version Control in Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)
-* [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 * [Getting Started with Pygame](https://www.pygame.org/wiki/GettingStarted)
+* [Python Pygame - The Full Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/)
+* [Version Control in Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)

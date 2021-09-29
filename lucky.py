@@ -49,6 +49,8 @@ box7 = Button(50,550, box)
 box8 = Button(300,550, box)
 box9 = Button(550,550, box)
 
+# Array for all the boxes in the 3x3 board game.
+boxes = [box1, box2, box3, box4, box5, box6, box7, box8, box9]
 
 # This is the quit button.
 exit_button = Button(790, 600, button_exit)
@@ -56,8 +58,7 @@ exit_button = Button(790, 600, button_exit)
 # This is my submit button
 submit_button = Button(790, 400, button_submit)
 
-# Array for all the boxes in the 3x3 board game.
-boxes = [box1, box2, box3, box4, box5, box6, box7, box8, box9]
+
 
 # This function will draw images or elements on the window.
 def draw(gameDisplay):
