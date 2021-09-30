@@ -16,7 +16,7 @@
 
     See how lucky you are, and see how many points you can gain!
     Best of luck!
-![Screenshot of Lucky Game](images\lucky_game.PNG)
+![Screenshot of Lucky Game](https://github.com/rodsam9/how-lucky-are-you-game/blob/main/images/lucky_game.PNG)
 
 [PyGame Demo Video](https://youtu.be/zm1oFaHwD94)
 
